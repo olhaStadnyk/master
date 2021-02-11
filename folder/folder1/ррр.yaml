@@ -3,7 +3,7 @@
   "servers": [
     {
       "url": "//petstore.swagger.io/v2",
-      "description": "Default server"
+      "descriptions": "Default server"
     },
     {
       "url": "//petstore.swagger.io/sandbox",
